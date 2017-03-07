@@ -1,0 +1,31 @@
+body{
+	background-image: url(../imagens/fundo.png);
+	font-family: Arial;
+	text-align: justify;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h2 {
+	font-family: "Times New Roman";
+	font-size: 28px;
+	color: limegreen;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+h3 {
+	font-family: "Times New Roman";
+	font-size: 24px;
+	color: limegreen;
+}
+
+#imagem {
+	border: 4px solid limegreen;
+}
+
+
+
+
